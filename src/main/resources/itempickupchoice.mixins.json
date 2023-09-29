@@ -4,6 +4,7 @@
   "package": "net.kinchanramen.github.itempickupchoice.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "MixinItemPickupChoice"
   ],
   "client": [
   ],

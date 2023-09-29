@@ -1,4 +1,4 @@
-package net.kinchanramen.github.itempickupchoice.util;
+package net.kinchanramen.github.itempickupchoice;
 
 import fi.dy.masa.malilib.util.StringUtils;
 
